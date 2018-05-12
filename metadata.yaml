@@ -1,10 +1,16 @@
 _repo: My-Monks-of-Vagabondia_51004
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51004-h/images/i_back_cover.jpg
 creator:
   author:
     agent_name: Floyd, Andress
     gutenberg_agent_id: '46193'
     url: http://www.gutenberg.org/2009/agents/46193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51004#My-Monks-of-Vagabondia
 gutenberg_issued: '2016-01-22'
 gutenberg_type: Text
 identifiers:
